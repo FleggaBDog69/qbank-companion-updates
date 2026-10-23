@@ -6,6 +6,11 @@
           "version": "1.0.2",
           "update_link": "https://github.com/FleggaBDog69/qbank-companion-updates/releases/download/v1.0.2/qbank_companion-1.0.2.xpi",
           "update_hash": "sha256:de73367104213fea8712de536e93927ebe2410aeb20c5aab64ce54aa673b1200"
+        },
+        {
+          "version": "1.0.3",
+          "update_link": "https://github.com/FleggaBDog69/qbank-companion-updates/releases/download/v1.0.3/qbank_companion-1.0.3.xpi",
+          "update_hash": "sha256:3077430c7126b140de238c7b3e0a136cb3677b5b8aa34cf8ef055c66aa87a6f5"
         }
       ]
     }
