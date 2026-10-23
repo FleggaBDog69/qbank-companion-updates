@@ -1,1 +1,13 @@
-{"addons": {}}
+{
+  "addons": {
+    "qbank-companion-private@fleggabdog69": {
+      "updates": [
+        {
+          "version": "1.0.2",
+          "update_link": "https://github.com/FleggaBDog69/qbank-companion-updates/releases/download/v1.0.2/qbank_companion-1.0.2.xpi",
+          "update_hash": "sha256:de73367104213fea8712de536e93927ebe2410aeb20c5aab64ce54aa673b1200"
+        }
+      ]
+    }
+  }
+}
